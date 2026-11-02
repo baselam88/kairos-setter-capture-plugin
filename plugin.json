@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Captures the three things that must exist before any sales call books: the problem in the prospect's own words, past attempts + their cost, and the cost of inaction in their number.",
+  "keywords": [
+    "capture",
+    "kairos",
+    "setter",
+    "small business"
+  ],
+  "license": "MIT",
+  "name": "kairos-setter-capture",
+  "repository": "https://github.com/baselam88/kairos-setter-capture-plugin",
+  "version": "0.1.0"
+}
